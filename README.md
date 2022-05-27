@@ -1,2 +1,1 @@
-# UzFilmBot
- 
+UzFilm saytining rasmiy boti
